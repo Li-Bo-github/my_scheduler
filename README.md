@@ -17,3 +17,14 @@ scheduler for preparing MS and job intern:
 - time for (apply, phone call, on site , accept ...)
 - star (optional)
 - link to offical application page
+
+##same for MS
+- apply
+- waitlist
+- reject
+
+with function:
+- school name
+- program name
+- deadline for apply
+- link to admision page

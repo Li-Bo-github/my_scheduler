@@ -28,3 +28,6 @@ with function:
 - program name
 - deadline for apply
 - link to admision page
+
+## schedule
+6.9 - current : familier with pipeline project

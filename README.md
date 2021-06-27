@@ -31,3 +31,8 @@ with function:
 
 ## schedule
 6.9 - current : familier with pipeline project
+
+##install
+- create a .env file in the top level directory storing your MongoDB ID in this format 'MONGO_URI="mongodb://user:pass@wd@127.0.0.1:27017"'
+- Run npm install
+- Run npm dev

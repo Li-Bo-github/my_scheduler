@@ -1,4 +1,5 @@
 # my_scheduler
+# stoped - use notion instead https://www.notion.so/Applicant-Tracker-74928f9929e94347b632ebb8f0fc9c8e
 ## Overview
 
 scheduler for preparing MS and job intern:
